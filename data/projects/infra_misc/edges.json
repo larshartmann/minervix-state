@@ -1,0 +1,47 @@
+[
+  {
+    "from": "personal_dns_provider_migration",
+    "to": "infra_misc",
+    "label": "part_of"
+  },
+  {
+    "from": "mx_hosting_requirements",
+    "to": "infra_misc",
+    "label": "part_of"
+  },
+  {
+    "from": "email_hosting_strategy",
+    "to": "infra_misc",
+    "label": "part_of"
+  },
+  {
+    "from": "azure_group_admin_rights_tf",
+    "to": "infra_misc",
+    "label": "part_of"
+  },
+  {
+    "from": "databricks_cli_aim2_patterns",
+    "to": "infra_misc",
+    "label": "part_of"
+  },
+  {
+    "from": "jekyll_pdf_export_solution",
+    "to": "infra_misc",
+    "label": "part_of"
+  },
+  {
+    "from": "openai_api_key_management",
+    "to": "infra_misc",
+    "label": "part_of"
+  },
+  {
+    "from": "bicycle_parts_finder",
+    "to": "infra_misc",
+    "label": "part_of"
+  },
+  {
+    "from": "engraving_pen_eu_research",
+    "to": "infra_misc",
+    "label": "part_of"
+  }
+]

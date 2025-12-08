@@ -1,0 +1,112 @@
+[
+  {
+    "from": "leverage_model",
+    "to": "valcon_leverage",
+    "label": "part_of"
+  },
+  {
+    "from": "uplift_function_by_seniority",
+    "to": "valcon_leverage",
+    "label": "part_of"
+  },
+  {
+    "from": "break_even_billable_equation",
+    "to": "valcon_leverage",
+    "label": "part_of"
+  },
+  {
+    "from": "department_growth_scenario",
+    "to": "valcon_leverage",
+    "label": "part_of"
+  },
+  {
+    "from": "60pct_billable_strategy",
+    "to": "valcon_leverage",
+    "label": "part_of"
+  },
+  {
+    "from": "Director_path_alignment",
+    "to": "valcon_leverage",
+    "label": "part_of"
+  },
+  {
+    "from": "negotiation_script",
+    "to": "valcon_leverage",
+    "label": "part_of"
+  },
+  {
+    "from": "performance_cycle_Q1_2026",
+    "to": "valcon_leverage",
+    "label": "part_of"
+  },
+  {
+    "from": "personal_development_plan_2026",
+    "to": "valcon_leverage",
+    "label": "part_of"
+  },
+  {
+    "from": "protected_time_model",
+    "to": "valcon_leverage",
+    "label": "part_of"
+  },
+  {
+    "from": "valcon_integrity_conversation",
+    "to": "valcon_leverage",
+    "label": "part_of"
+  },
+  {
+    "from": "hours_vs_value_mismatch",
+    "to": "valcon_leverage",
+    "label": "part_of"
+  },
+  {
+    "from": "personal_mission_statement_link",
+    "to": "valcon_leverage",
+    "label": "part_of"
+  },
+  {
+    "from": "uplift_function_by_seniority",
+    "to": "break_even_billable_equation",
+    "label": "informs"
+  },
+  {
+    "from": "department_growth_scenario",
+    "to": "60pct_billable_strategy",
+    "label": "supports"
+  },
+  {
+    "from": "leverage_model",
+    "to": "60pct_billable_strategy",
+    "label": "supports"
+  },
+  {
+    "from": "60pct_billable_strategy",
+    "to": "protected_time_model",
+    "label": "requires"
+  },
+  {
+    "from": "protected_time_model",
+    "to": "personal_development_plan_2026",
+    "label": "influences"
+  },
+  {
+    "from": "personal_development_plan_2026",
+    "to": "performance_cycle_Q1_2026",
+    "label": "feeds_into"
+  },
+  {
+    "from": "hours_vs_value_mismatch",
+    "to": "valcon_integrity_conversation",
+    "label": "motivates"
+  },
+  {
+    "from": "valcon_integrity_conversation",
+    "to": "negotiation_script",
+    "label": "informs"
+  },
+  {
+    "from": "personal_mission_statement_link",
+    "to": "personal_development_plan_2026",
+    "label": "aligns"
+  }
+]

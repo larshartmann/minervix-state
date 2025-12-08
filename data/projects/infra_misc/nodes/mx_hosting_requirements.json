@@ -1,0 +1,7 @@
+{
+  "id": "mx_hosting_requirements",
+  "project": "infra_misc",
+  "label": "MX hosting requirements",
+  "type": "concept",
+  "notes": "Requirements for mail exchange hosting."
+}

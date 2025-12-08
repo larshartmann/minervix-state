@@ -1,0 +1,7 @@
+{
+  "id": "personal_dns_provider_migration",
+  "project": "infra_misc",
+  "label": "DNS provider migration",
+  "type": "project",
+  "notes": "Moving off GratisDNS and choosing new provider."
+}

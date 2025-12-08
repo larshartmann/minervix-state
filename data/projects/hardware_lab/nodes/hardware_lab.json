@@ -1,0 +1,7 @@
+{
+  "id": "hardware_lab",
+  "project": "hardware_lab",
+  "label": "Hardware Lab",
+  "type": "project",
+  "notes": "PWM, lighting, Pi backup server, and other electronics experiments."
+}

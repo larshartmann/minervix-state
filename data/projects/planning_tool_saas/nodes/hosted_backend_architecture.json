@@ -1,0 +1,7 @@
+{
+  "id": "hosted_backend_architecture",
+  "project": "planning_tool_saas",
+  "label": "Hosted backend architecture",
+  "type": "design",
+  "notes": "Architecture for running the tool as a service."
+}

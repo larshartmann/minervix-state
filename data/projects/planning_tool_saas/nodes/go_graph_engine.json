@@ -1,0 +1,7 @@
+{
+  "id": "go_graph_engine",
+  "project": "planning_tool_saas",
+  "label": "Go graph engine",
+  "type": "component",
+  "notes": "Core Go-based graph engine (Minervix)."
+}

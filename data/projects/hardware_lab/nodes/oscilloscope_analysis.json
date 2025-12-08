@@ -1,0 +1,7 @@
+{
+  "id": "oscilloscope_analysis",
+  "project": "hardware_lab",
+  "label": "Oscilloscope analysis",
+  "type": "activity",
+  "notes": "Using oscilloscope to inspect PWM and transformer behavior."
+}

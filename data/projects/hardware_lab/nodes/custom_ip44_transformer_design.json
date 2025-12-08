@@ -1,0 +1,7 @@
+{
+  "id": "custom_ip44_transformer_design",
+  "project": "hardware_lab",
+  "label": "Custom IP44 transformer",
+  "type": "project",
+  "notes": "Custom protected transformer with dimmer and bypass."
+}

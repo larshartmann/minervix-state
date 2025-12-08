@@ -1,0 +1,7 @@
+{
+  "id": "databricks_cli_aim2_patterns",
+  "project": "infra_misc",
+  "label": "Databricks CLI AIM v2 patterns",
+  "type": "pattern",
+  "notes": "Commands and patterns for Databricks groups (resolve-group, etc.)."
+}

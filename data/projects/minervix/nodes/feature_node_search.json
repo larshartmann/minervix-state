@@ -1,0 +1,7 @@
+{
+  "id": "feature_node_search",
+  "project": "minervix",
+  "label": "node search/query",
+  "type": "feature",
+  "notes": "Search nodes by label/type/notes; basic query capability."
+}

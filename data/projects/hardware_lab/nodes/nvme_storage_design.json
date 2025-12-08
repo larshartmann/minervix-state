@@ -1,0 +1,7 @@
+{
+  "id": "nvme_storage_design",
+  "project": "hardware_lab",
+  "label": "NVMe storage",
+  "type": "component",
+  "notes": "4TB+ NVMe choice and enclosure for backup."
+}

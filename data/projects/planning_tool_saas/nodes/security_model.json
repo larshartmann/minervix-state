@@ -1,0 +1,7 @@
+{
+  "id": "security_model",
+  "project": "planning_tool_saas",
+  "label": "Security model",
+  "type": "design",
+  "notes": "Auth, access control, and data security for SaaS."
+}

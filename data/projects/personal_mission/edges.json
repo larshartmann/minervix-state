@@ -1,0 +1,87 @@
+[
+  {
+    "from": "personal_mission_statement",
+    "to": "personal_mission",
+    "label": "part_of"
+  },
+  {
+    "from": "why_statement",
+    "to": "personal_mission",
+    "label": "part_of"
+  },
+  {
+    "from": "covey_7_habits_alignment",
+    "to": "personal_mission",
+    "label": "part_of"
+  },
+  {
+    "from": "sinek_start_with_why",
+    "to": "personal_mission",
+    "label": "part_of"
+  },
+  {
+    "from": "parenting_role",
+    "to": "personal_mission",
+    "label": "part_of"
+  },
+  {
+    "from": "partner_relationship_role",
+    "to": "personal_mission",
+    "label": "part_of"
+  },
+  {
+    "from": "extended_family_role",
+    "to": "personal_mission",
+    "label": "part_of"
+  },
+  {
+    "from": "integrity_alignment_self",
+    "to": "personal_mission",
+    "label": "part_of"
+  },
+  {
+    "from": "personal_values_document",
+    "to": "personal_mission",
+    "label": "part_of"
+  },
+  {
+    "from": "personal_goals_2026",
+    "to": "personal_mission",
+    "label": "part_of"
+  },
+  {
+    "from": "friction_for_growth_model",
+    "to": "personal_mission",
+    "label": "part_of"
+  },
+  {
+    "from": "sinek_start_with_why",
+    "to": "why_statement",
+    "label": "informs"
+  },
+  {
+    "from": "covey_7_habits_alignment",
+    "to": "personal_mission_statement",
+    "label": "informs"
+  },
+  {
+    "from": "why_statement",
+    "to": "personal_mission_statement",
+    "label": "supports"
+  },
+  {
+    "from": "personal_mission_statement",
+    "to": "personal_goals_2026",
+    "label": "guides"
+  },
+  {
+    "from": "personal_mission_statement",
+    "to": "integrity_alignment_self",
+    "label": "anchors"
+  },
+  {
+    "from": "friction_for_growth_model",
+    "to": "parenting_role",
+    "label": "informs"
+  }
+]

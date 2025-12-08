@@ -1,0 +1,7 @@
+{
+  "id": "enterprise_version_design",
+  "project": "planning_tool_saas",
+  "label": "Enterprise version design",
+  "type": "design",
+  "notes": "Multi-tenant, RBAC, and enterprise features."
+}

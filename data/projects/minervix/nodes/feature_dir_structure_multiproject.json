@@ -1,0 +1,7 @@
+{
+  "id": "feature_dir_structure_multiproject",
+  "project": "minervix",
+  "label": "multi-project dir structure",
+  "type": "feature",
+  "notes": "Project-aware directory layout and project-level metadata."
+}

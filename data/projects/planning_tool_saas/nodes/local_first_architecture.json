@@ -1,0 +1,7 @@
+{
+  "id": "local_first_architecture",
+  "project": "planning_tool_saas",
+  "label": "Local-first architecture",
+  "type": "design",
+  "notes": "Local graph first, sync second approach."
+}

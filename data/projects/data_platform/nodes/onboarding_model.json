@@ -1,0 +1,7 @@
+{
+  "id": "onboarding_model",
+  "project": "data_platform",
+  "label": "Onboarding model",
+  "type": "process",
+  "notes": "Standardized onboarding to the platform for new developers/teams."
+}

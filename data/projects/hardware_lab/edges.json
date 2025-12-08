@@ -1,0 +1,62 @@
+[
+  {
+    "from": "pwm_dimmer_module",
+    "to": "hardware_lab",
+    "label": "part_of"
+  },
+  {
+    "from": "sirius_tobias_lighting",
+    "to": "hardware_lab",
+    "label": "part_of"
+  },
+  {
+    "from": "custom_ip44_transformer_design",
+    "to": "hardware_lab",
+    "label": "part_of"
+  },
+  {
+    "from": "raspberry_pi_backup_server",
+    "to": "hardware_lab",
+    "label": "part_of"
+  },
+  {
+    "from": "nvme_storage_design",
+    "to": "hardware_lab",
+    "label": "part_of"
+  },
+  {
+    "from": "oscilloscope_analysis",
+    "to": "hardware_lab",
+    "label": "part_of"
+  },
+  {
+    "from": "low_voltage_connectors",
+    "to": "hardware_lab",
+    "label": "part_of"
+  },
+  {
+    "from": "elextra_component_search",
+    "to": "hardware_lab",
+    "label": "part_of"
+  },
+  {
+    "from": "copenhagen_store_index",
+    "to": "hardware_lab",
+    "label": "part_of"
+  },
+  {
+    "from": "sirius_tobias_lighting",
+    "to": "pwm_dimmer_module",
+    "label": "target_for"
+  },
+  {
+    "from": "oscilloscope_analysis",
+    "to": "pwm_dimmer_module",
+    "label": "supports"
+  },
+  {
+    "from": "nvme_storage_design",
+    "to": "raspberry_pi_backup_server",
+    "label": "core_component"
+  }
+]

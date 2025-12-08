@@ -1,0 +1,7 @@
+{
+  "id": "hours_vs_value_mismatch",
+  "project": "valcon_leverage",
+  "label": "Hours vs value mismatch",
+  "type": "issue",
+  "notes": "Disconnect between billable hours and true value creation."
+}

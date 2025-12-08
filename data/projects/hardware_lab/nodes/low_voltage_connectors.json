@@ -1,0 +1,7 @@
+{
+  "id": "low_voltage_connectors",
+  "project": "hardware_lab",
+  "label": "Low-voltage connectors",
+  "type": "component",
+  "notes": "Connectors compatible with Sirius Tobias."
+}

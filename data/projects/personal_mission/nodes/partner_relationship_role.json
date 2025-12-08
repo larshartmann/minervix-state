@@ -1,0 +1,7 @@
+{
+  "id": "partner_relationship_role",
+  "project": "personal_mission",
+  "label": "Partner role",
+  "type": "role",
+  "notes": "How you want to show up as a spouse/partner."
+}

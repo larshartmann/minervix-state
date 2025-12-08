@@ -58,5 +58,95 @@
     "from": "feature_visualization",
     "to": "feature_info_enhanced",
     "label": "depends_on"
+  },
+  {
+    "from": "feature_project_init",
+    "to": "minervix_backlog",
+    "label": "part_of"
+  },
+  {
+    "from": "feature_info_enhanced",
+    "to": "minervix_backlog",
+    "label": "part_of"
+  },
+  {
+    "from": "feature_default_project",
+    "to": "minervix_backlog",
+    "label": "part_of"
+  },
+  {
+    "from": "feature_edit_commands",
+    "to": "minervix_backlog",
+    "label": "part_of"
+  },
+  {
+    "from": "feature_git_sync",
+    "to": "minervix_backlog",
+    "label": "part_of"
+  },
+  {
+    "from": "feature_visualization",
+    "to": "minervix_backlog",
+    "label": "part_of"
+  },
+  {
+    "from": "feature_mermaid_renderer",
+    "to": "minervix_backlog",
+    "label": "part_of"
+  },
+  {
+    "from": "feature_leverage_analysis",
+    "to": "minervix_backlog",
+    "label": "part_of"
+  },
+  {
+    "from": "feature_config_layer",
+    "to": "minervix_backlog",
+    "label": "part_of"
+  },
+  {
+    "from": "feature_node_search",
+    "to": "minervix_backlog",
+    "label": "part_of"
+  },
+  {
+    "from": "feature_cross_project_awareness",
+    "to": "minervix_backlog",
+    "label": "part_of"
+  },
+  {
+    "from": "feature_tui_interface",
+    "to": "minervix_backlog",
+    "label": "part_of"
+  },
+  {
+    "from": "feature_web_ui_experimental",
+    "to": "minervix_backlog",
+    "label": "part_of"
+  },
+  {
+    "from": "feature_sync_backends",
+    "to": "minervix_backlog",
+    "label": "part_of"
+  },
+  {
+    "from": "feature_dir_structure_multiproject",
+    "to": "minervix_backlog",
+    "label": "part_of"
+  },
+  {
+    "from": "feature_distributed_state_model",
+    "to": "minervix_backlog",
+    "label": "part_of"
+  },
+  {
+    "from": "feature_graph_indexer",
+    "to": "minervix_backlog",
+    "label": "part_of"
+  },
+  {
+    "from": "minervix_backlog",
+    "to": "minervix",
+    "label": "enables"
   }
 ]

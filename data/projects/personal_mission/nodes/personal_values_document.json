@@ -1,0 +1,7 @@
+{
+  "id": "personal_values_document",
+  "project": "personal_mission",
+  "label": "Personal values",
+  "type": "artifact",
+  "notes": "Explicit list of values."
+}

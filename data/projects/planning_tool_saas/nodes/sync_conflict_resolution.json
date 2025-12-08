@@ -1,0 +1,7 @@
+{
+  "id": "sync_conflict_resolution",
+  "project": "planning_tool_saas",
+  "label": "Sync conflict resolution",
+  "type": "design",
+  "notes": "Rules and mechanisms for safely resolving sync conflicts."
+}

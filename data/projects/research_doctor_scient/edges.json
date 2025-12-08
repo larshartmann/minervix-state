@@ -1,0 +1,57 @@
+[
+  {
+    "from": "brainstorming_as_foundation",
+    "to": "research_topic_planning_predictability",
+    "label": "part_of"
+  },
+  {
+    "from": "enterprise_project_traceability",
+    "to": "research_topic_planning_predictability",
+    "label": "part_of"
+  },
+  {
+    "from": "distributed_planning_graphs",
+    "to": "research_topic_planning_predictability",
+    "label": "part_of"
+  },
+  {
+    "from": "toy_blockchain_proof_of_work_with_fitness_data",
+    "to": "research_topic_planning_predictability",
+    "label": "part_of"
+  },
+  {
+    "from": "research_viability_analysis",
+    "to": "research_topic_planning_predictability",
+    "label": "part_of"
+  },
+  {
+    "from": "academic_publication_strategy",
+    "to": "research_topic_planning_predictability",
+    "label": "part_of"
+  },
+  {
+    "from": "multi_year_research_plan",
+    "to": "research_topic_planning_predictability",
+    "label": "part_of"
+  },
+  {
+    "from": "research_viability_analysis",
+    "to": "multi_year_research_plan",
+    "label": "informs"
+  },
+  {
+    "from": "brainstorming_as_foundation",
+    "to": "enterprise_project_traceability",
+    "label": "supports"
+  },
+  {
+    "from": "research_topic_planning_predictability",
+    "to": "multi_year_research_plan",
+    "label": "drives"
+  },
+  {
+    "from": "research_topic_planning_predictability",
+    "to": "academic_publication_strategy",
+    "label": "requires"
+  }
+]

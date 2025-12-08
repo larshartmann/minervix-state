@@ -1,0 +1,72 @@
+[
+  {
+    "from": "terraform_state_split",
+    "to": "data_platform_architecture",
+    "label": "part_of"
+  },
+  {
+    "from": "databricks_workspace_model",
+    "to": "data_platform_architecture",
+    "label": "part_of"
+  },
+  {
+    "from": "databricks_catalog_model",
+    "to": "data_platform_architecture",
+    "label": "part_of"
+  },
+  {
+    "from": "abac_design_for_gdpr",
+    "to": "data_platform_architecture",
+    "label": "part_of"
+  },
+  {
+    "from": "pii_handling_patterns",
+    "to": "data_platform_architecture",
+    "label": "part_of"
+  },
+  {
+    "from": "onboarding_model",
+    "to": "data_platform_architecture",
+    "label": "part_of"
+  },
+  {
+    "from": "developer_workflow_standards",
+    "to": "data_platform_architecture",
+    "label": "part_of"
+  },
+  {
+    "from": "governance_framework",
+    "to": "data_platform_architecture",
+    "label": "part_of"
+  },
+  {
+    "from": "compliance_guidance",
+    "to": "data_platform_architecture",
+    "label": "part_of"
+  },
+  {
+    "from": "enterprise_separation_of_duties",
+    "to": "data_platform_architecture",
+    "label": "part_of"
+  },
+  {
+    "from": "terraform_admin_permission_design",
+    "to": "data_platform_architecture",
+    "label": "part_of"
+  },
+  {
+    "from": "databricks_workspace_model",
+    "to": "databricks_catalog_model",
+    "label": "constrains"
+  },
+  {
+    "from": "abac_design_for_gdpr",
+    "to": "pii_handling_patterns",
+    "label": "informs"
+  },
+  {
+    "from": "terraform_state_split",
+    "to": "terraform_admin_permission_design",
+    "label": "enables"
+  }
+]

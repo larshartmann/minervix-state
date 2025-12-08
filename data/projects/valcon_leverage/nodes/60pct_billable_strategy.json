@@ -1,0 +1,7 @@
+{
+  "id": "60pct_billable_strategy",
+  "project": "valcon_leverage",
+  "label": "60% billable strategy",
+  "type": "scenario",
+  "notes": "Move from 100% billable to ~60% with leverage justification."
+}

@@ -1,0 +1,7 @@
+{
+  "id": "pricing_tiers",
+  "project": "planning_tool_saas",
+  "label": "Pricing tiers",
+  "type": "business",
+  "notes": "Tiered pricing for different user types."
+}

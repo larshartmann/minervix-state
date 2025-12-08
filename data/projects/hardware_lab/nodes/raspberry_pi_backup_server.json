@@ -1,0 +1,7 @@
+{
+  "id": "raspberry_pi_backup_server",
+  "project": "hardware_lab",
+  "label": "Raspberry Pi backup server",
+  "type": "project",
+  "notes": "Pi-based backup server with NVMe storage."
+}

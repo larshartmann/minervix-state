@@ -1,0 +1,7 @@
+{
+  "id": "pwm_dimmer_module",
+  "project": "hardware_lab",
+  "label": "PWM dimmer module",
+  "type": "project",
+  "notes": "36V PWM dimmer for Sirius lighting; 555 + MOSFET ideas."
+}

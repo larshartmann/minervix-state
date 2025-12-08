@@ -1,0 +1,7 @@
+{
+  "id": "feature_sync_backends",
+  "project": "minervix",
+  "label": "sync backends",
+  "type": "feature",
+  "notes": "Support multiple sync backends (git, SSH, GitHub API) beyond local git."
+}

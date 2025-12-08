@@ -1,0 +1,7 @@
+{
+  "id": "email_hosting_strategy",
+  "project": "infra_misc",
+  "label": "Email hosting strategy",
+  "type": "project",
+  "notes": "Choosing reliable email hosting with reasonable space."
+}

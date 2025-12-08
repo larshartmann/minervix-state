@@ -1,0 +1,7 @@
+{
+  "id": "pii_handling_patterns",
+  "project": "data_platform",
+  "label": "PII handling patterns",
+  "type": "pattern",
+  "notes": "Patterns for pseudonymization, masking, and controlled access."
+}

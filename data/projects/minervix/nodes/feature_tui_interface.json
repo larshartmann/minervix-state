@@ -1,0 +1,7 @@
+{
+  "id": "feature_tui_interface",
+  "project": "minervix",
+  "label": "TUI interface",
+  "type": "feature",
+  "notes": "Terminal UI for browsing/editing the graph (e.g. BubbleTea)."
+}

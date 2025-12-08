@@ -1,0 +1,7 @@
+{
+  "id": "toy_blockchain_proof_of_work_with_fitness_data",
+  "project": "research_doctor_scient",
+  "label": "Fitness-based proof-of-work toy",
+  "type": "experiment",
+  "notes": "Toy system using fitness tracker data as proof-of-work."
+}

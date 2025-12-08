@@ -1,0 +1,7 @@
+{
+  "id": "databricks_catalog_model",
+  "project": "data_platform",
+  "label": "Databricks catalog model",
+  "type": "pattern",
+  "notes": "Structure of catalogs, schemas, tables, and governance."
+}

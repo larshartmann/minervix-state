@@ -1,0 +1,7 @@
+{
+  "id": "bicycle_parts_finder",
+  "project": "infra_misc",
+  "label": "Bicycle parts finder",
+  "type": "task",
+  "notes": "Finding specific tire/tube sizes locally."
+}

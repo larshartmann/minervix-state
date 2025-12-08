@@ -1,0 +1,7 @@
+{
+  "id": "multi_device_sync",
+  "project": "planning_tool_saas",
+  "label": "Multi-device sync",
+  "type": "feature",
+  "notes": "Robust multi-device synchronization."
+}

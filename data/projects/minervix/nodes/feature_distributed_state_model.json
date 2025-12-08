@@ -1,0 +1,7 @@
+{
+  "id": "feature_distributed_state_model",
+  "project": "minervix",
+  "label": "distributed state model",
+  "type": "feature",
+  "notes": "Design for using git as a distributed backend with low merge conflicts."
+}

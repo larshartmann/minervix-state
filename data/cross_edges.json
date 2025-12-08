@@ -1,1 +1,72 @@
-null
+[
+  {
+    "from": "minervix",
+    "to": "personal_mission_statement",
+    "label": "organizes"
+  },
+  {
+    "from": "minervix",
+    "to": "leverage_model",
+    "label": "supports"
+  },
+  {
+    "from": "minervix",
+    "to": "data_platform_handbook",
+    "label": "supports"
+  },
+  {
+    "from": "minervix",
+    "to": "research_topic_planning_predictability",
+    "label": "supports"
+  },
+  {
+    "from": "personal_mission_statement",
+    "to": "personal_development_plan_2026",
+    "label": "guides"
+  },
+  {
+    "from": "data_platform_architecture",
+    "to": "data_platform_handbook",
+    "label": "feeds"
+  },
+  {
+    "from": "abac_design_for_gdpr",
+    "to": "patterns_catalog",
+    "label": "content_for"
+  },
+  {
+    "from": "terraform_state_split",
+    "to": "chapter_structure",
+    "label": "informs"
+  },
+  {
+    "from": "planning_tool_saas_mvp",
+    "to": "minervix",
+    "label": "extends"
+  },
+  {
+    "from": "multi_device_sync",
+    "to": "feature_git_sync",
+    "label": "informs"
+  },
+  {
+    "from": "ux_graph_editor",
+    "to": "feature_visualization",
+    "label": "informs"
+  },
+  {
+    "from": "research_topic_planning_predictability",
+    "to": "planning_tool_saas_mvp",
+    "label": "motivates"
+  },
+  {
+    "from": "research_topic_planning_predictability",
+    "to": "data_platform_handbook",
+    "label": "informs"
+  },
+  {
+    "from": "personal_mission_statement_link",
+    "to": "personal_mission_statement",
+    "label": "references"
+  }
+]

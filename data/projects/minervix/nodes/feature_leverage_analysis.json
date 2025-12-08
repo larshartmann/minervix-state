@@ -1,0 +1,7 @@
+{
+  "id": "feature_leverage_analysis",
+  "project": "minervix",
+  "label": "leverage analysis command",
+  "type": "feature",
+  "notes": "CLI command to compute leverage factors (team size, uplift, billable %) for negotiation."
+}

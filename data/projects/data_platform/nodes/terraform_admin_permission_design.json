@@ -1,0 +1,7 @@
+{
+  "id": "terraform_admin_permission_design",
+  "project": "data_platform",
+  "label": "Admin permission design",
+  "type": "pattern",
+  "notes": "Admin rights via Terraform and Entra groups."
+}

@@ -1,0 +1,7 @@
+{
+  "id": "data_platform_architecture",
+  "project": "data_platform",
+  "label": "Data Platform Architecture",
+  "type": "project",
+  "notes": "Overall architecture of the Databricks + Azure data platform."
+}

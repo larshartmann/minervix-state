@@ -1,0 +1,37 @@
+[
+  {
+    "from": "tingling_toes_analysis",
+    "to": "health_optimization",
+    "label": "part_of"
+  },
+  {
+    "from": "stretching_routine",
+    "to": "health_optimization",
+    "label": "part_of"
+  },
+  {
+    "from": "natural_testosterone_strategies",
+    "to": "health_optimization",
+    "label": "part_of"
+  },
+  {
+    "from": "neurofeedback_research_summary",
+    "to": "health_optimization",
+    "label": "part_of"
+  },
+  {
+    "from": "daily_health_maintenance_protocol",
+    "to": "health_optimization",
+    "label": "part_of"
+  },
+  {
+    "from": "tingling_toes_analysis",
+    "to": "stretching_routine",
+    "label": "suggests"
+  },
+  {
+    "from": "natural_testosterone_strategies",
+    "to": "daily_health_maintenance_protocol",
+    "label": "informs"
+  }
+]

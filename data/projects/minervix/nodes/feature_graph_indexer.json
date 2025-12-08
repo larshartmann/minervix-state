@@ -1,0 +1,7 @@
+{
+  "id": "feature_graph_indexer",
+  "project": "minervix",
+  "label": "graph indexer",
+  "type": "feature",
+  "notes": "Index graph for quick queries, statistics, and analytics."
+}

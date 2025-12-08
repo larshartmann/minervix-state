@@ -1,0 +1,7 @@
+{
+  "id": "compliance_guidance",
+  "project": "data_platform",
+  "label": "Compliance guidance",
+  "type": "artifact",
+  "notes": "Advice on architecture and compliance tradeoffs."
+}

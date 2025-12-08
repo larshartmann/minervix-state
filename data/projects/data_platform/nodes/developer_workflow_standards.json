@@ -1,0 +1,7 @@
+{
+  "id": "developer_workflow_standards",
+  "project": "data_platform",
+  "label": "Developer workflows",
+  "type": "process",
+  "notes": "Branching, CI, testing, and development standards."
+}

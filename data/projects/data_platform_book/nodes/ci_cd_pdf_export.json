@@ -1,0 +1,7 @@
+{
+  "id": "ci_cd_pdf_export",
+  "project": "data_platform_book",
+  "label": "CI/CD PDF export",
+  "type": "tooling",
+  "notes": "GitHub Actions (or similar) to generate PDFs automatically."
+}

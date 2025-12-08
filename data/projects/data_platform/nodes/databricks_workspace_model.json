@@ -1,0 +1,7 @@
+{
+  "id": "databricks_workspace_model",
+  "project": "data_platform",
+  "label": "Databricks workspace model",
+  "type": "pattern",
+  "notes": "Workspaces, catalogs, and separation of environments."
+}

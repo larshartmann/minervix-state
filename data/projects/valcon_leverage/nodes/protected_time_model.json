@@ -1,0 +1,7 @@
+{
+  "id": "protected_time_model",
+  "project": "valcon_leverage",
+  "label": "Protected time model",
+  "type": "concept",
+  "notes": "Model for allocating non-billable time to high-leverage work."
+}

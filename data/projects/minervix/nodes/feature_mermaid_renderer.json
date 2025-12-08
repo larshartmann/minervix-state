@@ -1,0 +1,7 @@
+{
+  "id": "feature_mermaid_renderer",
+  "project": "minervix",
+  "label": "Mermaid renderer",
+  "type": "feature",
+  "notes": "Render graph as Mermaid for README / docs integration."
+}

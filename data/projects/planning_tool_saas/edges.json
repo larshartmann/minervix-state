@@ -1,0 +1,92 @@
+[
+  {
+    "from": "multi_device_sync",
+    "to": "planning_tool_saas_mvp",
+    "label": "part_of"
+  },
+  {
+    "from": "hosted_backend_architecture",
+    "to": "planning_tool_saas_mvp",
+    "label": "part_of"
+  },
+  {
+    "from": "subscription_model",
+    "to": "planning_tool_saas_mvp",
+    "label": "part_of"
+  },
+  {
+    "from": "product_hunt_launch_plan",
+    "to": "planning_tool_saas_mvp",
+    "label": "part_of"
+  },
+  {
+    "from": "pricing_tiers",
+    "to": "planning_tool_saas_mvp",
+    "label": "part_of"
+  },
+  {
+    "from": "enterprise_version_design",
+    "to": "planning_tool_saas_mvp",
+    "label": "part_of"
+  },
+  {
+    "from": "local_first_architecture",
+    "to": "planning_tool_saas_mvp",
+    "label": "part_of"
+  },
+  {
+    "from": "go_graph_engine",
+    "to": "planning_tool_saas_mvp",
+    "label": "part_of"
+  },
+  {
+    "from": "sync_conflict_resolution",
+    "to": "planning_tool_saas_mvp",
+    "label": "part_of"
+  },
+  {
+    "from": "ux_graph_editor",
+    "to": "planning_tool_saas_mvp",
+    "label": "part_of"
+  },
+  {
+    "from": "security_model",
+    "to": "planning_tool_saas_mvp",
+    "label": "part_of"
+  },
+  {
+    "from": "hosted_backend_architecture",
+    "to": "multi_device_sync",
+    "label": "enables"
+  },
+  {
+    "from": "local_first_architecture",
+    "to": "sync_conflict_resolution",
+    "label": "informs"
+  },
+  {
+    "from": "multi_device_sync",
+    "to": "sync_conflict_resolution",
+    "label": "requires"
+  },
+  {
+    "from": "subscription_model",
+    "to": "pricing_tiers",
+    "label": "refines"
+  },
+  {
+    "from": "pricing_tiers",
+    "to": "product_hunt_launch_plan",
+    "label": "feeds"
+  },
+  {
+    "from": "enterprise_version_design",
+    "to": "security_model",
+    "label": "constrains"
+  },
+  {
+    "from": "go_graph_engine",
+    "to": "planning_tool_saas_mvp",
+    "label": "core_component"
+  }
+]

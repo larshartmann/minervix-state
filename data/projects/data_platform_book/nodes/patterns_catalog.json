@@ -1,0 +1,7 @@
+{
+  "id": "patterns_catalog",
+  "project": "data_platform_book",
+  "label": "Patterns catalog",
+  "type": "artifact",
+  "notes": "Catalog of reusable patterns from the platform work."
+}

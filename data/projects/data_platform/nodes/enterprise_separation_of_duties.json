@@ -1,0 +1,7 @@
+{
+  "id": "enterprise_separation_of_duties",
+  "project": "data_platform",
+  "label": "Separation of duties",
+  "type": "concept",
+  "notes": "Responsibilities split between teams and environments."
+}

@@ -1,0 +1,52 @@
+[
+  {
+    "from": "chapter_structure",
+    "to": "data_platform_handbook",
+    "label": "part_of"
+  },
+  {
+    "from": "patterns_catalog",
+    "to": "data_platform_handbook",
+    "label": "part_of"
+  },
+  {
+    "from": "build_system_pandoc",
+    "to": "data_platform_handbook",
+    "label": "part_of"
+  },
+  {
+    "from": "ci_cd_pdf_export",
+    "to": "data_platform_handbook",
+    "label": "part_of"
+  },
+  {
+    "from": "sample_code_repository",
+    "to": "data_platform_handbook",
+    "label": "part_of"
+  },
+  {
+    "from": "research_on_planning_predictability",
+    "to": "data_platform_handbook",
+    "label": "part_of"
+  },
+  {
+    "from": "Addison_Wesley_style_guidelines",
+    "to": "data_platform_handbook",
+    "label": "part_of"
+  },
+  {
+    "from": "long_term_IP_strategy",
+    "to": "data_platform_handbook",
+    "label": "part_of"
+  },
+  {
+    "from": "build_system_pandoc",
+    "to": "ci_cd_pdf_export",
+    "label": "enables"
+  },
+  {
+    "from": "patterns_catalog",
+    "to": "data_platform_handbook",
+    "label": "core_content"
+  }
+]

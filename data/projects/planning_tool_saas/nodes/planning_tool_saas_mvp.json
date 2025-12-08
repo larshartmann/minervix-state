@@ -1,0 +1,7 @@
+{
+  "id": "planning_tool_saas_mvp",
+  "project": "planning_tool_saas",
+  "label": "Planning tool SaaS MVP",
+  "type": "project",
+  "notes": "Hosted Minervix-like service with multi-user and sync."
+}

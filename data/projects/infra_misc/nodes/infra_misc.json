@@ -1,0 +1,7 @@
+{
+  "id": "infra_misc",
+  "project": "infra_misc",
+  "label": "Infrastructure \u0026 Misc Tech",
+  "type": "project",
+  "notes": "DNS, email, tooling, and other infra decisions."
+}

@@ -1,0 +1,7 @@
+{
+  "id": "jekyll_pdf_export_solution",
+  "project": "infra_misc",
+  "label": "Jekyll PDF export",
+  "type": "pattern",
+  "notes": "Mechanism for turning Jekyll site content into PDF."
+}

@@ -1,0 +1,7 @@
+{
+  "id": "distributed_planning_graphs",
+  "project": "research_doctor_scient",
+  "label": "Distributed planning graphs",
+  "type": "concept",
+  "notes": "Using distributed graphs for planning across teams."
+}

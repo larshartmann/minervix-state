@@ -1,0 +1,7 @@
+{
+  "id": "sample_code_repository",
+  "project": "data_platform_book",
+  "label": "Sample code repo",
+  "type": "artifact",
+  "notes": "Companion repository with code and configs."
+}

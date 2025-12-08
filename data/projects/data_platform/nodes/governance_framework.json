@@ -1,0 +1,7 @@
+{
+  "id": "governance_framework",
+  "project": "data_platform",
+  "label": "Governance framework",
+  "type": "concept",
+  "notes": "Governance, roles, approvals, and operational guardrails."
+}

@@ -1,0 +1,7 @@
+{
+  "id": "openai_api_key_management",
+  "project": "infra_misc",
+  "label": "OpenAI API key management",
+  "type": "practice",
+  "notes": "Where and how API keys are stored and used."
+}

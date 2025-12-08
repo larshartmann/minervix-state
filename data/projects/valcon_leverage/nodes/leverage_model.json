@@ -1,0 +1,7 @@
+{
+  "id": "leverage_model",
+  "project": "valcon_leverage",
+  "label": "Leverage model",
+  "type": "concept",
+  "notes": "Mathematical model of uplift vs billable hours vs team size."
+}

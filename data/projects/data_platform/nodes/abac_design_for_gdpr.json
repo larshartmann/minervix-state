@@ -1,0 +1,7 @@
+{
+  "id": "abac_design_for_gdpr",
+  "project": "data_platform",
+  "label": "ABAC for GDPR/PII",
+  "type": "pattern",
+  "notes": "Attribute-based access control design for GDPR/PII handling."
+}

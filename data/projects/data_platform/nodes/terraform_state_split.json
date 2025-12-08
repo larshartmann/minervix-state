@@ -1,0 +1,7 @@
+{
+  "id": "terraform_state_split",
+  "project": "data_platform",
+  "label": "Terraform state split",
+  "type": "pattern",
+  "notes": "Separate Azure and Databricks configuration into dedicated Terraform states."
+}

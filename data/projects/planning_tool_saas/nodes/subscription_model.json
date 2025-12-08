@@ -1,0 +1,7 @@
+{
+  "id": "subscription_model",
+  "project": "planning_tool_saas",
+  "label": "Subscription model",
+  "type": "business",
+  "notes": "Monetization and subscription structure."
+}

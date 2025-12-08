@@ -1,0 +1,7 @@
+{
+  "id": "azure_group_admin_rights_tf",
+  "project": "infra_misc",
+  "label": "Azure group admin via Terraform",
+  "type": "pattern",
+  "notes": "Pattern for granting Databricks account admin via Terraform."
+}

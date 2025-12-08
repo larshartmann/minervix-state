@@ -1,0 +1,7 @@
+{
+  "id": "ux_graph_editor",
+  "project": "planning_tool_saas",
+  "label": "Graph editor UX",
+  "type": "feature",
+  "notes": "Graph editing UI (web or TUI)."
+}

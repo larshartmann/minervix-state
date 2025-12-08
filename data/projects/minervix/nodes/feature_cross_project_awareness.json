@@ -1,0 +1,7 @@
+{
+  "id": "feature_cross_project_awareness",
+  "project": "minervix",
+  "label": "cross-project awareness",
+  "type": "feature",
+  "notes": "Commands to show cross-project dependencies and impact."
+}

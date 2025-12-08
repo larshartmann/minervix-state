@@ -1,0 +1,7 @@
+{
+  "id": "uplift_function_by_seniority",
+  "project": "valcon_leverage",
+  "label": "Uplift by seniority",
+  "type": "concept",
+  "notes": "Realistic uplift potential per seniority band (junior, mid, senior, principal)."
+}

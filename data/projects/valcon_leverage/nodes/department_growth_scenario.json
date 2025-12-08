@@ -1,0 +1,7 @@
+{
+  "id": "department_growth_scenario",
+  "project": "valcon_leverage",
+  "label": "Department growth scenario",
+  "type": "scenario",
+  "notes": "Growth from 20 to 50 people and impact on leverage."
+}

@@ -1,0 +1,7 @@
+{
+  "id": "build_system_pandoc",
+  "project": "data_platform_book",
+  "label": "Pandoc build system",
+  "type": "tooling",
+  "notes": "Markdown → PDF via Pandoc/XeLaTeX, Unicode-safe configuration."
+}

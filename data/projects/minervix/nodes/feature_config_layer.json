@@ -1,0 +1,7 @@
+{
+  "id": "feature_config_layer",
+  "project": "minervix",
+  "label": "config layer",
+  "type": "feature",
+  "notes": "Support config file or env-based defaults (data dir, project, sync options)."
+}
