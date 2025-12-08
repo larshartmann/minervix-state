@@ -1,0 +1,7 @@
+{
+  "id": "feature_edit_commands",
+  "project": "minervix",
+  "label": "node-edit \u0026 edge-rm commands",
+  "type": "feature",
+  "notes": "Edit node attributes and remove edges/nodes cleanly."
+}

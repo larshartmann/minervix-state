@@ -1,0 +1,7 @@
+{
+  "id": "feature_git_sync",
+  "project": "minervix",
+  "label": "automatic Git sync",
+  "type": "feature",
+  "notes": "Optional pre/post command git pull/add/commit/push (MINERVIX_AUTO_SYNC)."
+}

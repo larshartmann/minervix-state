@@ -1,0 +1,7 @@
+{
+  "id": "feature_visualization",
+  "project": "minervix",
+  "label": "visual graph output",
+  "type": "feature",
+  "notes": "Render to Graphviz/Mermaid or similar for visualizing projects and dependencies."
+}

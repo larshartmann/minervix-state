@@ -1,0 +1,7 @@
+{
+  "id": "feature_default_project",
+  "project": "minervix",
+  "label": "default project config",
+  "type": "feature",
+  "notes": "Support MINERVIX_PROJECT or config file for default project selection."
+}

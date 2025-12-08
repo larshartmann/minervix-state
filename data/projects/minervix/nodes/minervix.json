@@ -1,0 +1,7 @@
+{
+  "id": "minervix",
+  "project": "minervix",
+  "label": "Minervix Tool",
+  "type": "project",
+  "notes": "Graph-based planning CLI / personal planning OS"
+}

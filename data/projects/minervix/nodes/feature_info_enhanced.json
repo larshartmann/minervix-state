@@ -1,0 +1,7 @@
+{
+  "id": "feature_info_enhanced",
+  "project": "minervix",
+  "label": "info command enhancements",
+  "type": "feature",
+  "notes": "Show data dir, projects, node/edge counts, maybe recent sync status."
+}

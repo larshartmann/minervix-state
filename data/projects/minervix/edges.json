@@ -1,0 +1,62 @@
+[
+  {
+    "from": "feature_project_init",
+    "to": "minervix_backlog",
+    "label": "part_of"
+  },
+  {
+    "from": "feature_info_enhanced",
+    "to": "minervix_backlog",
+    "label": "part_of"
+  },
+  {
+    "from": "feature_default_project",
+    "to": "minervix_backlog",
+    "label": "part_of"
+  },
+  {
+    "from": "feature_edit_commands",
+    "to": "minervix_backlog",
+    "label": "part_of"
+  },
+  {
+    "from": "feature_git_sync",
+    "to": "minervix_backlog",
+    "label": "part_of"
+  },
+  {
+    "from": "feature_visualization",
+    "to": "minervix_backlog",
+    "label": "part_of"
+  },
+  {
+    "from": "minervix_backlog",
+    "to": "minervix",
+    "label": "enables"
+  },
+  {
+    "from": "feature_info_enhanced",
+    "to": "feature_project_init",
+    "label": "depends_on"
+  },
+  {
+    "from": "feature_default_project",
+    "to": "feature_project_init",
+    "label": "depends_on"
+  },
+  {
+    "from": "feature_edit_commands",
+    "to": "feature_project_init",
+    "label": "depends_on"
+  },
+  {
+    "from": "feature_git_sync",
+    "to": "feature_project_init",
+    "label": "depends_on"
+  },
+  {
+    "from": "feature_visualization",
+    "to": "feature_info_enhanced",
+    "label": "depends_on"
+  }
+]

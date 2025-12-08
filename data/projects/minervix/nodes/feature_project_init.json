@@ -1,0 +1,7 @@
+{
+  "id": "feature_project_init",
+  "project": "minervix",
+  "label": "project-init command",
+  "type": "feature",
+  "notes": "Create project directories, basic metadata file, and initial nodes."
+}
