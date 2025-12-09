@@ -1,0 +1,6 @@
+{
+  "id": "feature_project_dependency_graph",
+  "project": "minervix",
+  "label": "output Project Dependency graph",
+  "notes": "Outputting a highlevel project dependency graph would be nice"
+}

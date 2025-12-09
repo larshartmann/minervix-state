@@ -1,0 +1,7 @@
+{
+  "id": "analyze",
+  "project": "minervix",
+  "label": "Analyse dependency graph",
+  "type": "feature",
+  "notes": "Identify cycles in graph to highlight misfits in Alexander style"
+}

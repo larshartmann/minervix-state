@@ -1,0 +1,7 @@
+{
+  "id": "propose_abstractions",
+  "project": "minervix",
+  "label": "propose project abstractions",
+  "type": "feature",
+  "notes": "Propose abstractions to break cycles in graph"
+}
