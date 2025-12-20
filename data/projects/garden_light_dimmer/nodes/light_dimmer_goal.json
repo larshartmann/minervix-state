@@ -1,0 +1,7 @@
+{
+  "id": "light_dimmer_goal",
+  "project": "garden_light_dimmer",
+  "label": "light dimmer goal",
+  "type": "goal",
+  "notes": "Project is completed once I have an IP44 level box with an adjustable light dimmer with bypass switch"
+}

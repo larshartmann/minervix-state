@@ -1,0 +1,7 @@
+{
+  "id": "data_separation",
+  "project": "data_platform",
+  "label": "data separation",
+  "type": "pattern",
+  "notes": "How to do chinese walls in databricks using ABAC, two catalog level policies, two governed tags. One tag is used to determine if decision is made on table level to apply chinese walls, other is used to mark the column where the row can be decided to include or not. One policy is applied denyioang all data, if table is not decided, other policy is used to apply the row filter when the table contains data for separation"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "chinese_walls",
+  "project": "data_platform",
+  "label": "Chinese Walls",
+  "type": "concept",
+  "notes": "A chinese wall in IT is a way to separate data based on roles. Who can see what, think of traders where they must not see each others portfolios, and a company with multiple brands where the brands must not see each others data"
+}

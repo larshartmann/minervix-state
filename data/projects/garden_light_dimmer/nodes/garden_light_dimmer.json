@@ -1,0 +1,7 @@
+{
+  "id": "garden_light_dimmer",
+  "project": "garden_light_dimmer",
+  "label": "garden_light_dimmer",
+  "type": "project",
+  "notes": "Our garden lights need a 36V dimmer using PWM and a bypass switch. I have looked for one to buy, and cannot really find one. It should be fairly easy to build using a MOSFET and a 555 timer"
+}
