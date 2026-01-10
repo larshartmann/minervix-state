@@ -15,6 +15,15 @@ I refuse to let short-term pressure, convenience, or approval distort long-term 
 When circumstances change or systems no longer support my principles, I will redesign the structure of my commitments rather than erode my integrity.
 Across changing contexts, I seek to act in ways that preserve human capability, shared resilience, and continuity of self—moving deliberately rather than by default.
 
+## Values (How I act)
+
+- Stewardship - Take responsibility for long-term outcomes
+- Intentionality - Design structure instead of relying on vigilance
+- Deliberateness - Act deliberately rather than reactively
+- Realism - Respect real constraints and finite capacity
+- Truthfulness - Make reality visible through systems and models
+- Empowerment - Enable others without removing accountability
+
 ## Meta Principle
 
 When reality persistently violates my principles, I redesign the system—not my integrity.
