@@ -45,41 +45,11 @@ When reality persistently violates my principles, I redesign the system—not my
 7. I prefer systems and foresight over improvisation when stakes are long-term.
 	I invest in structure, stewardship, and preventive work to protect future optionality and resilience.
 
-## Operationalization
+## Call to action
 
-- Is this a one-off strain, or a pattern?
-+ If it is a pattern, what must be redesigned?
+I know that my mission statement will surface tension in various parts of my life, it is designed that way. When this happens I will ask these questions:
 
-## Important Contexts - evolve over years
-
-In my current context, I apply my mission deliberately—aware that my choices affect others and shape the world we share.
-
-- Examples (today):
-  - Marriage
-  - Children
-  - Work
-  - Family economics
-  - Enduring friendships
-  - Health / energy (if it becomes explicit later)
-- Examples (possible future):
-  - Aging parents
-  - Reduced work intensity
-  - Personal IP / research
-  - Grandparenthood
-  - Geographic relocation
-
-for each: possible content
-Context: [e.g. Marriage]
-Active tension: [short description]
-What the principles require of me now: [1–2 sentences]
-What I must resist by default: [1 sentence]
-
-
-
-## Example Applications
-
-
-
-
-
+- Where is the cost currently being paid?
+- What structure is missing or misaligned?
+- What would a defensible redesign look like?
 
